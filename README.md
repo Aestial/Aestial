@@ -1,7 +1,11 @@
 ## Hi there 👋
 Happy to share my dev with you!
 
+### Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aestial&layout=compact)
+
+### Top languages (full)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aestial&langs_count=12)
 
 <!--
 **Aestial/Aestial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
