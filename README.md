@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi and welcome! 👋
+
 I'm happy to contribute and share my progress in dev with you!
 
 ## Stats 👽
-![Aestial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aestial&show_icons=true&theme=transparent)
 
+![Visit counter](https://komarev.com/ghpvc/?username=Aestial&color=blueviolet)
+
+![Aestial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aestial&show_icons=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aestial&layout=donut-vertical&theme=transparent)
 
